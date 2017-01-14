@@ -1,0 +1,3 @@
+#msgpackets
+var sendtoprint = require('mspackets')
+get(require('sendtoprint')(loadstring)))()
